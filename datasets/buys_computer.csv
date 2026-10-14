@@ -1,0 +1,15 @@
+Record,Age,Income,Student,Credit_Rating,Buys_Computer
+1,<=30,High,No,Fair,No
+2,<=30,High,No,Excellent,No
+3,31...40,High,No,Fair,Yes
+4,>40,Medium,No,Fair,Yes
+5,>40,Low,Yes,Fair,Yes
+6,>40,Low,Yes,Excellent,No
+7,31...40,Low,Yes,Excellent,Yes
+8,<=30,Medium,No,Fair,No
+9,<=30,Low,Yes,Fair,Yes
+10,>40,Medium,Yes,Fair,Yes
+11,<=30,Medium,Yes,Excellent,Yes
+12,31...40,Medium,No,Excellent,Yes
+13,31...10,High,Yes,Fair,Yes
+14,>40,Medium,No,Excellent,No
